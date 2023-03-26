@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ayush Pratap Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aps2612&label=Profile%20views&color=0e75b6&style=flat" alt="aps2612" /> </p>
 
 - 🔭 I’m currently working on **RozGaar Web Application**
 
-- 🌱 I’m currently learning **NodeJs,MongoDb**
+- 🌱 I’m currently learning **NodeJs,Python**
 
-- 💬 Ask me about **JavaScript,CSS,React**
+- 💬 Ask me about **JavaScript,CSS,React,Nodejs,MongoDB**
 
 - 📫 How to reach me **apsingh1722@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3GAf1V0](https://bit.ly/3GAf1V0)
+- 📄 Know about my experiences [https://bit.ly/3leoPfs](https://bit.ly/3leoPfs)
 
-- ⚡ Fun fact **I think i am smart**
+- ⚡ Fun fact **Looking for the perfect company **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
