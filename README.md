@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **RozGaar Web Application**
 
-- 🌱 I’m currently learning **NodeJs,Python**
+- 🌱 I’m currently learning **JEST,Python,Django**
 
-- 💬 Ask me about **JavaScript,CSS,React,Nodejs,MongoDB**
+- 💬 Ask me about **JavaScript,HTML,CSS,React,Nodejs,MongoDB,REST API**
 
 - 📫 How to reach me **apsingh1722@gmail.com**
 
